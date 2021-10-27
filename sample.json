@@ -1,0 +1,1019 @@
+[
+    {
+        "FILE": "./ML-CODE./SECTrainingIter.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 2
+        }
+    },
+    {
+        "FILE": "./ML-CODE./SECTrainingIter.py",
+        "ALERTS": {
+            "SEVERITY": "MEDIUM",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 129
+        }
+    },
+    {
+        "FILE": "./ML-CODE./SEresnext.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 370
+        }
+    },
+    {
+        "FILE": "./ML-CODE./_performance.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 53
+        }
+    },
+    {
+        "FILE": "./ML-CODE./augmentation_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 80
+        }
+    },
+    {
+        "FILE": "./ML-CODE./augmentation_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 92
+        }
+    },
+    {
+        "FILE": "./ML-CODE./augmentation_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 93
+        }
+    },
+    {
+        "FILE": "./ML-CODE./augmentation_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 118
+        }
+    },
+    {
+        "FILE": "./ML-CODE./augmentation_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 181
+        }
+    },
+    {
+        "FILE": "./ML-CODE./augmentation_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 212
+        }
+    },
+    {
+        "FILE": "./ML-CODE./augmentation_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 256
+        }
+    },
+    {
+        "FILE": "./ML-CODE./augmentation_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 288
+        }
+    },
+    {
+        "FILE": "./ML-CODE./augmentation_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 311
+        }
+    },
+    {
+        "FILE": "./ML-CODE./augmentation_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 334
+        }
+    },
+    {
+        "FILE": "./ML-CODE./augmentation_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 357
+        }
+    },
+    {
+        "FILE": "./ML-CODE./baseline.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 65
+        }
+    },
+    {
+        "FILE": "./ML-CODE./baseline.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 77
+        }
+    },
+    {
+        "FILE": "./ML-CODE./baseline.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 182
+        }
+    },
+    {
+        "FILE": "./ML-CODE./cli_interface.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 144
+        }
+    },
+    {
+        "FILE": "./ML-CODE./create_coco_tf_record.py",
+        "ALERTS": {
+            "SEVERITY": "MEDIUM",
+            "CONFIDENCE": "MEDIUM",
+            "NAME": "hardcoded_tmp_directory",
+            "LINE_NO": 74
+        }
+    },
+    {
+        "FILE": "./ML-CODE./create_coco_tf_record.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 476
+        }
+    },
+    {
+        "FILE": "./ML-CODE./create_coco_tf_record.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 477
+        }
+    },
+    {
+        "FILE": "./ML-CODE./create_coco_tf_record.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 478
+        }
+    },
+    {
+        "FILE": "./ML-CODE./create_coco_tf_record.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 479
+        }
+    },
+    {
+        "FILE": "./ML-CODE./create_coco_tf_record.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 480
+        }
+    },
+    {
+        "FILE": "./ML-CODE./create_coco_tf_record.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 481
+        }
+    },
+    {
+        "FILE": "./ML-CODE./data_utils.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "MEDIUM",
+            "NAME": "hardcoded_password_string",
+            "LINE_NO": 26
+        }
+    },
+    {
+        "FILE": "./ML-CODE./data_utils.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 59
+        }
+    },
+    {
+        "FILE": "./ML-CODE./data_utils.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 63
+        }
+    },
+    {
+        "FILE": "./ML-CODE./data_utils.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "MEDIUM",
+            "NAME": "hardcoded_password_string",
+            "LINE_NO": 139
+        }
+    },
+    {
+        "FILE": "./ML-CODE./dataloader.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 279
+        }
+    },
+    {
+        "FILE": "./ML-CODE./dataloader.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 294
+        }
+    },
+    {
+        "FILE": "./ML-CODE./datasets.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 26
+        }
+    },
+    {
+        "FILE": "./ML-CODE./datasets.py",
+        "ALERTS": {
+            "SEVERITY": "MEDIUM",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 55
+        }
+    },
+    {
+        "FILE": "./ML-CODE./feature_io.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 51
+        }
+    },
+    {
+        "FILE": "./ML-CODE./feature_io.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 52
+        }
+    },
+    {
+        "FILE": "./ML-CODE./feature_io.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 53
+        }
+    },
+    {
+        "FILE": "./ML-CODE./feature_io.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 58
+        }
+    },
+    {
+        "FILE": "./ML-CODE./flownet.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 33
+        }
+    },
+    {
+        "FILE": "./ML-CODE./flownet.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 44
+        }
+    },
+    {
+        "FILE": "./ML-CODE./flownet.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 45
+        }
+    },
+    {
+        "FILE": "./ML-CODE./formatInput.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 13
+        }
+    },
+    {
+        "FILE": "./ML-CODE./formatInput.py",
+        "ALERTS": {
+            "SEVERITY": "MEDIUM",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 63
+        }
+    },
+    {
+        "FILE": "./ML-CODE./generate_labeled_rnn_data.py",
+        "ALERTS": {
+            "SEVERITY": "MEDIUM",
+            "CONFIDENCE": "MEDIUM",
+            "NAME": "hardcoded_tmp_directory",
+            "LINE_NO": 33
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 46
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 76
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 110
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 112
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 118
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 122
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 146
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 164
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 200
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 220
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 231
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 244
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 269
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 294
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 307
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 310
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 311
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 316
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 320
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 321
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 325
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 341
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 356
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 365
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 392
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 444
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 543
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 545
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 600
+        }
+    },
+    {
+        "FILE": "./ML-CODE./joint_transforms.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 605
+        }
+    },
+    {
+        "FILE": "./ML-CODE./layers.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 59
+        }
+    },
+    {
+        "FILE": "./ML-CODE./layers.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 173
+        }
+    },
+    {
+        "FILE": "./ML-CODE./logger.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 1
+        }
+    },
+    {
+        "FILE": "./ML-CODE./logger.py",
+        "ALERTS": {
+            "SEVERITY": "MEDIUM",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 92
+        }
+    },
+    {
+        "FILE": "./ML-CODE./loss.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 18
+        }
+    },
+    {
+        "FILE": "./ML-CODE./losses.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 73
+        }
+    },
+    {
+        "FILE": "./ML-CODE./losses.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 268
+        }
+    },
+    {
+        "FILE": "./ML-CODE./lr_scheduler.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 29
+        }
+    },
+    {
+        "FILE": "./ML-CODE./make_splits_size-48-80_6class.py",
+        "ALERTS": {
+            "SEVERITY": "HIGH",
+            "CONFIDENCE": "HIGH",
+            "NAME": "start_process_with_a_shell",
+            "LINE_NO": 45
+        }
+    },
+    {
+        "FILE": "./ML-CODE./make_splits_size-48-80_6class.py",
+        "ALERTS": {
+            "SEVERITY": "HIGH",
+            "CONFIDENCE": "HIGH",
+            "NAME": "start_process_with_a_shell",
+            "LINE_NO": 49
+        }
+    },
+    {
+        "FILE": "./ML-CODE./make_splits_size-48-80_8class.py",
+        "ALERTS": {
+            "SEVERITY": "HIGH",
+            "CONFIDENCE": "HIGH",
+            "NAME": "start_process_with_a_shell",
+            "LINE_NO": 44
+        }
+    },
+    {
+        "FILE": "./ML-CODE./make_splits_size-48-80_8class.py",
+        "ALERTS": {
+            "SEVERITY": "HIGH",
+            "CONFIDENCE": "HIGH",
+            "NAME": "start_process_with_a_shell",
+            "LINE_NO": 48
+        }
+    },
+    {
+        "FILE": "./ML-CODE./mapillary.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 34
+        }
+    },
+    {
+        "FILE": "./ML-CODE./mapillary.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 50
+        }
+    },
+    {
+        "FILE": "./ML-CODE./metrics.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 108
+        }
+    },
+    {
+        "FILE": "./ML-CODE./modules.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 47
+        }
+    },
+    {
+        "FILE": "./ML-CODE./reader.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 50
+        }
+    },
+    {
+        "FILE": "./ML-CODE./resnet2.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 41
+        }
+    },
+    {
+        "FILE": "./ML-CODE./resnet2.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 117
+        }
+    },
+    {
+        "FILE": "./ML-CODE./resnet4.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 31
+        }
+    },
+    {
+        "FILE": "./ML-CODE./resnet4.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 85
+        }
+    },
+    {
+        "FILE": "./ML-CODE./roidb2.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 42
+        }
+    },
+    {
+        "FILE": "./ML-CODE./roidb2.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 45
+        }
+    },
+    {
+        "FILE": "./ML-CODE./roidb2.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 49
+        }
+    },
+    {
+        "FILE": "./ML-CODE./roidb2.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 50
+        }
+    },
+    {
+        "FILE": "./ML-CODE./run_eval.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 38
+        }
+    },
+    {
+        "FILE": "./ML-CODE./run_eval.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 39
+        }
+    },
+    {
+        "FILE": "./ML-CODE./run_pretraining.py",
+        "ALERTS": {
+            "SEVERITY": "MEDIUM",
+            "CONFIDENCE": "MEDIUM",
+            "NAME": "hardcoded_tmp_directory",
+            "LINE_NO": 186
+        }
+    },
+    {
+        "FILE": "./ML-CODE./run_squad.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 25
+        }
+    },
+    {
+        "FILE": "./ML-CODE./run_squad.py",
+        "ALERTS": {
+            "SEVERITY": "MEDIUM",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 270
+        }
+    },
+    {
+        "FILE": "./ML-CODE./test_audio.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 20
+        }
+    },
+    {
+        "FILE": "./ML-CODE./test_data_samplers.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "blacklist",
+            "LINE_NO": 115
+        }
+    },
+    {
+        "FILE": "./ML-CODE./test_data_samplers.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 144
+        }
+    },
+    {
+        "FILE": "./ML-CODE./test_frontend.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 13
+        }
+    },
+    {
+        "FILE": "./ML-CODE./test_frontend.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 15
+        }
+    },
+    {
+        "FILE": "./ML-CODE./test_frontend.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 22
+        }
+    },
+    {
+        "FILE": "./ML-CODE./test_frontend.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 24
+        }
+    },
+    {
+        "FILE": "./ML-CODE./test_frontend.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 41
+        }
+    },
+    {
+        "FILE": "./ML-CODE./test_frontend.py",
+        "ALERTS": {
+            "SEVERITY": "LOW",
+            "CONFIDENCE": "HIGH",
+            "NAME": "assert_used",
+            "LINE_NO": 63
+        }
+    }
+]
